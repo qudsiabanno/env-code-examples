@@ -1,2 +1,2 @@
-# env-code-examples
-code examples for environmental data processing 
+# Environmental Code Examples
+This repository contains Python scripts related to environmental data processing and analysis.
